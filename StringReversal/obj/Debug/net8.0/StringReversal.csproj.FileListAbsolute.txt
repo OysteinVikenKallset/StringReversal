@@ -1,0 +1,14 @@
+C:\Programering\learnC#and.Net\CsharpProjects\stringReversal\StringReversal\bin\Debug\net8.0\StringReversal.exe
+C:\Programering\learnC#and.Net\CsharpProjects\stringReversal\StringReversal\bin\Debug\net8.0\StringReversal.deps.json
+C:\Programering\learnC#and.Net\CsharpProjects\stringReversal\StringReversal\bin\Debug\net8.0\StringReversal.runtimeconfig.json
+C:\Programering\learnC#and.Net\CsharpProjects\stringReversal\StringReversal\bin\Debug\net8.0\StringReversal.dll
+C:\Programering\learnC#and.Net\CsharpProjects\stringReversal\StringReversal\bin\Debug\net8.0\StringReversal.pdb
+C:\Programering\learnC#and.Net\CsharpProjects\stringReversal\StringReversal\obj\Debug\net8.0\StringReversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programering\learnC#and.Net\CsharpProjects\stringReversal\StringReversal\obj\Debug\net8.0\StringReversal.AssemblyInfoInputs.cache
+C:\Programering\learnC#and.Net\CsharpProjects\stringReversal\StringReversal\obj\Debug\net8.0\StringReversal.AssemblyInfo.cs
+C:\Programering\learnC#and.Net\CsharpProjects\stringReversal\StringReversal\obj\Debug\net8.0\StringReversal.csproj.CoreCompileInputs.cache
+C:\Programering\learnC#and.Net\CsharpProjects\stringReversal\StringReversal\obj\Debug\net8.0\StringReversal.dll
+C:\Programering\learnC#and.Net\CsharpProjects\stringReversal\StringReversal\obj\Debug\net8.0\refint\StringReversal.dll
+C:\Programering\learnC#and.Net\CsharpProjects\stringReversal\StringReversal\obj\Debug\net8.0\StringReversal.pdb
+C:\Programering\learnC#and.Net\CsharpProjects\stringReversal\StringReversal\obj\Debug\net8.0\StringReversal.genruntimeconfig.cache
+C:\Programering\learnC#and.Net\CsharpProjects\stringReversal\StringReversal\obj\Debug\net8.0\ref\StringReversal.dll
